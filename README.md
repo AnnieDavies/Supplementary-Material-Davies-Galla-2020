@@ -1,6 +1,5 @@
 # Supplementary-Material-Davies-Galla-2020
-Supplementary material and simulation code for 'Degree irregularity and rank probability bias in network meta-analysis'. A L Davies and T Galla 2020.
-
+Supplementary material and simulation code for 'Degree irregularity and rank probability bias in network meta-analysis'. A L Davies and T Galla 2020 https://arxiv.org/abs/2003.07662
 
 The code simulates binomial data for a network meta-analysis with a combination of two-arm and multi-arm trials.
 A Bayesian NMA is performed for each realisation of the data and the results are averaged.
