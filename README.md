@@ -12,4 +12,4 @@ The code relies on the Eigen library, the download files and documentation can b
 The generation of random numbers (outside of functions) uses the PCG library, the download files and documentation can be found here: https://www.pcg-random.org/
 
 Code written by Annabel Davies 09/2019
-annabel.davies@manchester.ac.uk
+annabel.davies@postgrad.manchester.ac.uk
