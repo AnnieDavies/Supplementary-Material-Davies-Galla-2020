@@ -2,7 +2,7 @@
 Supplementary material and simulation code for 'Degree irregularity and rank probability bias in network meta-analysis'. A L Davies and T Galla 2020 https://arxiv.org/abs/2003.07662
 
 The code simulates binomial data for a network meta-analysis with a combination of two-arm and multi-arm trials.
-A Bayesian NMA is performed for each realisation of the data and the results are averaged.
+A Bayesian random-effects NMA is performed for each realisation of the data and the results are averaged.
 The Bayesian NMA uses the Metropolis-in-Gibbs algorithm described in D. Spiegelhalter, A. Thomas, N. Best, and D. Lunn. WinBUGS User Manual: Version 1.4.MRC Biostatistics Unit, University of Cambridge, 2003.
 
 The user must define the geometry of the network and the true model parameter values at the beginning of int main () {  }.
